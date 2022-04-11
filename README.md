@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saur1sh
 - 👀 I’m interested in ML and Data Science
-- 🌱 I’m currently learning Node.js
+- 🌱 Currently learning Node.js
 - 📫 @saurishsharma0@gmail.com
 
 <!---
