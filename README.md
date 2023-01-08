@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saur1sh
-- 👀 I’m interested in ML and Data Science
+- 👀 I’m interested in Machine Learning and Data Science
 - 🌱 Currently learning `react-native`
 - 📫 @saurishsharma0@gmail.com
 
