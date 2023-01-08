@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saur1sh
 - 👀 I’m interested in ML and Data Science
-- 🌱 Currently learning Node.js, Flask
+- 🌱 Currently learning `react-native`
 - 📫 @saurishsharma0@gmail.com
 
 <!---
